@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const API_URL = 'https://api.together.xyz/v1/chat/completions';
-const API_KEY = '8036cda7ecd9b246001d1264d534dd4e07654191f95c8b8774aaac262542c757'; // set in env variables
+const API_KEY = ''; // set in env variables
 
 const runLLM = async (prompt) => {
   const body = {
