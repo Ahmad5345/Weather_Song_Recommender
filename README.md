@@ -27,9 +27,8 @@ npm install
 ```bash
 npx expo start
 ```
-
-- Press **`w`** to open in a web browser
-- Scan the QR code with Expo Go to run on a physical device
+Can run on expo go in a physical device by scanning the QR code or press "i" to run on IOS simulator.
+#### Only tested on a IOS device
 
 ---
 
