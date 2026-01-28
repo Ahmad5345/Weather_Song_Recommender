@@ -29,7 +29,7 @@ npx expo start
 ```
 Can run on expo go in a physical device by scanning the QR code or press "i" to run on IOS simulator.
 #### Only tested on a IOS device
-
+#### DONT FORGET TO INSERT API KEYS FOR THE AI MODEL AND YOUTUBE!!! I TOOK MINE OUT
 ---
 
 ## Screenshots
